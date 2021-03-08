@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2450" started-at="2021-02-27T19:33:17Z" finished-at="2021-02-27T19:33:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2450" started-at="2021-02-27T19:33:17Z" finished-at="2021-02-27T19:33:19Z">
+      <class name="testCases.Creat_A_Product">
+        <test-method status="PASS" signature="CreatAproduct()[pri:0, instance:testCases.Creat_A_Product@56de5251]" name="CreatAproduct" duration-ms="2425" started-at="2021-02-27T19:33:17Z" finished-at="2021-02-27T19:33:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatAproduct -->
+      </class> <!-- testCases.Creat_A_Product -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
