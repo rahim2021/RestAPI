@@ -49,7 +49,7 @@ public class Creat_A_Product {
 //		Assert.assertEquals(productname, "HP Laptop Elite Pro");
 //		Assert.assertEquals(productdescription, "Super fast laptop");
 
-
+//
 //		System.out.println(productID);		
 						
 //		js.prettyPrint();		
